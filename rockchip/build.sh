@@ -35,15 +35,12 @@ PACKAGES="$PACKAGES luci-i18n-firewall-zh-cn"
 
 PACKAGES="$PACKAGES luci-app-argon-config"
 PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
-PACKAGES="$PACKAGES luci-app-autoreboot"
-PACKAGES="$PACKAGES luci-app-upnp"
+PACKAGES="$PACKAGES luci-i18n-autoreboot-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 
 
 # PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
-# PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
-# PACKAGES="$PACKAGES luci-app-openclash"
-# PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 # 服务——FileBrowser 用户名admin 密码admin
 #vPACKAGES="$PACKAGES luci-i18n-filebrowser-go-zh-cn"
 # PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
